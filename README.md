@@ -6,7 +6,7 @@
 
 「獅尾麥克黑體」與「獅尾麥腿黑體」差別在有沒有拔腳，「拔腳」就是會有較少的筆畫，例如移除「口」字的左右下角會多出的短線條。有拔腳的字會較圓，但是會造成有些字因直接去掉腿後左右不平衡、左右不對襯的「懸空」問題。改使用「腿」系列字體就不會有這個問題。
 
-![字體預覽](https://github.com/max32002/swei-fist-sans/raw/master/preview/welcome.png)
+![字體預覽](https://github.com/max32002/swei-marker-sans/raw/master/preview/welcome.png)
 
 ## 與其他字體的比較
 * 在「刂」的筆畫，獅尾比較相似台灣(教育部國字標準字體)教育部推薦字體筆順。
@@ -21,7 +21,7 @@
 * 相同一個字，在不地區的書寫方式可能會略有不同。
 
 ## 更新日誌
-[點擊此處](https://github.com/max32002/swei-fist-sans/blob/master/change_log.md) 查看更新記錄。
+[點擊此處](https://github.com/max32002/swei-marker-sans/blob/master/change_log.md) 查看更新記錄。
 
 ## 下載字型
 
