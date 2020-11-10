@@ -8,7 +8,7 @@
 
 ![字體預覽](https://github.com/max32002/swei-marker-sans/raw/master/preview/welcome.png)
 
-和思源黑體一樣，支援7種的字重：
+「獅尾麥克黑體」設計上針對筆畫粗細支援7種字重，所以不論大標、小標、簡單的段落排版都能清晰辨識：
 ![字體比較預覽](https://github.com/max32002/swei-marker-sans/raw/master/preview/compare_style.png)
 附註：目前有些筆畫還沒有套用到效果，是程式需要改進的地方。
 
